@@ -1,0 +1,6 @@
+Product=input("Enter the product name")
+Weight=float(input("Enter the weight"))
+Price=float(input("Enter the price"))
+print("Product Name:",Product)
+print("Weight:",Weight)
+print("price:",Price)
