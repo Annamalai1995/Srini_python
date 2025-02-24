@@ -1,6 +1,8 @@
 Product=input("Enter the product name")
 Weight=float(input("Enter the weight"))
 Price=float(input("Enter the price"))
+Date=(input("Enter the date"))
+print("Date:",Date)
 print("Product Name:",Product)
 print("Weight:",Weight)
 print("price:",Price)
